@@ -1,0 +1,24 @@
+{
+  "name": "sandwich-reviews",
+  "version": "1.0.0",
+  "description": "Premium reviews of San Diego County's delis",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jjbidwell/sandwich-reviews.git"
+  },
+  "author": "Joshua Bidwell",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jjbidwell/sandwich-reviews/issues"
+  },
+  "homepage": "https://github.com/jjbidwell/sandwich-reviews#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^6.0.8"
+  }
+}
